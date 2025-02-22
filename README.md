@@ -15,8 +15,8 @@ Example: `/lheads give Notch 5` - 5 Notch heads
 - `lheads.command.give` - Access to give command
 - there will be more in the future
 
-<h4 align="left">Also check out the page on SpigotMC, <a href="https://www.spigotmc.org">Page is here</a></h4>
 
-### Support
 Bug reports and PRs are welcome!  
 If you like this project, leave a ⭐!
+
+<h4 align="left">Also check out the page on SpigotMC, <a href="https://www.spigotmc.org">Page is here</a></h4>
