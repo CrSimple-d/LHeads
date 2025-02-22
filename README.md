@@ -1,5 +1,5 @@
 
-# LHeads - Lightweight Heads Plugin
+## LHeads - Lightweight Heads Plugin
 
 A simple and lightweight Minecraft plugin for managing player and mob head drops. Perfect for your first plugin development experience!
 
