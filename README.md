@@ -1,7 +1,7 @@
 
 ## LHeads - Lightweight Heads Plugin
 
-A simple and lightweight Minecraft plugin for managing player and mob head drops. Perfect for your first plugin development experience!
+A simple and lightweight Minecraft plugin for managing player and mob head drops.
 
 - **Player Heads**: Configurable player head drops on death
 - **Mob Heads** (Beta): Experimental mob head drop support
