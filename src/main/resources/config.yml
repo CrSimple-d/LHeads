@@ -1,0 +1,32 @@
+#LHeads Config v1.0
+#Hi, here you can customize the LHeads plugin
+#You'll find clues at the bottom
+playerHeadSettings:
+  drop-enable: true
+
+  #item name, %player-head% - head name, also use § to format text
+  display-name: "§r§6%player-head%'s head"
+  chance: 0.5 #head drop chance, default 0.5
+
+#Beta
+mobHeadSettings:
+  drop-enable: false
+
+  chance: 0.3 #head drop chance, default 0.3
+
+  only-mobs-in-the-list: false
+  enable-mobs: #The head will only fall from the mobs on the list if only-mobs-in-the-list: true
+    - creeper
+    - pig
+    - enderman
+
+commands:
+  lheads:
+    give:
+      #Message on successful execution of a command
+      #You can use %player-head% - will return the name of the head,
+      #%count% - will return the number of heads requested by the player,
+      #%sender% - the player using the command
+      message: "§6Successful gave §c%count% %player-head%'s §6head to §c%sender%" #use § to format text
+
+#Good luck with the customization :)
